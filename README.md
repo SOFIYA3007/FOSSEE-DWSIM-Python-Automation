@@ -147,7 +147,7 @@ No GUI interaction was involved
 Jupyter Notebook was used only for development; final execution is script-based
 
 
-11. Submission Instructions
+11. FOSSEE Screening Submission Instructions
 
 Place the following files in a single folder:
 
@@ -170,3 +170,5 @@ https://forms.gle/WFA3Wem6nZKu414UA
 12. Conclusion
 
 This submission demonstrates correct, robust, and automated usage of DWSIM via Python, fulfilling all evaluation criteria including headless execution, parametric sweeps, structured output logging, and clean documentation.
+
+📌 This project was developed as part of the FOSSEE Internship Screening Task (Python Automation of DWSIM).
