@@ -1,0 +1,5 @@
+Case,UnitOperation,Feed_Temperature_K,Outlet_Temperature_K,Feed_MassFlow_kg_s,Outlet_MassFlow_kg_s,Heat_Duty_W,Success,Error
+T=300,Heater,300,315,1,1,5000,TRUE,None
+T=320,Heater,320,335,1,1,5000,TRUE,None
+T=340,Heater,340,355,1,1,5000,TRUE,None
+T=360,Heater,360,375,1,1,5000,TRUE,None
